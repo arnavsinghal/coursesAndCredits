@@ -1,1 +1,1 @@
-# coursesAndCredits
+# jenkinsExam
